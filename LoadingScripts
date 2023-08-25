@@ -1,2 +1,1 @@
-Main Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/HungHub/main/Loading"))()
-Anime Adventures Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/HungHubAA/main/LoadingAA"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/HungHub/main/Loading"))() 
